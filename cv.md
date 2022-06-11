@@ -2,9 +2,9 @@
 
 ## Contacts
 
-**E - mail:** vladap1336@gmail.com
-**Telegram:** @grtcha
-**Github:** [grtcha](https://github.com/grtcha)
+* __E - mail:__ vladap1336@gmail.com
+* __Telegram:__ @grtcha
+* __Github:__ [grtcha](https://github.com/grtcha)
 
 ## About me
 
@@ -23,7 +23,7 @@ I've just started learning programming language. I really like it and I hope I'l
 ```javascript
 function multiply(a,b) {
     return a * b;
-};
+}
 ```
 ## Experience
 
@@ -32,4 +32,5 @@ function multiply(a,b) {
 **University:** Saint Petersburg State University of Civil Aviation (in the process)
 
 ## Languages:
-English - Intermediate
+* English - Intermediate
+* Russian - Native speaker
