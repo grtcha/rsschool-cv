@@ -98,11 +98,14 @@ body {
     text-decoration: none;
   }
   .footer {
+    background-color: #18385D;
+    padding: 20px;
+  }
+  .footer-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
-    background-color: #18385D;
     color: #ffffff;
   }
   html {
