@@ -55,7 +55,15 @@ body {
     font-weight: 500;
     margin-bottom: 20 px;
     letter-spacing: 3px;
-    color: #18385D;
+    text-transform: uppercase;
+    color: #102741;
+  }
+  .section-profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 30px 35px;
+    border-bottom: 15px solid #7a6957;
   }
   @media (max-width: 768px) {
     .section {
@@ -76,6 +84,26 @@ body {
     text-decoration: none;
     color: #ffffff;
     font-size: 20px;
+  }
+  .contacts-item a {
+    color: #102741;
+    text-decoration: none;
+  }
+  .contacts-item:visited {
+    color: #102741;
+    text-decoration: none;
+  }
+  .contacts-item:hover {
+    color: #412a10;
+    text-decoration: none;
+  }
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #18385D;
+    color: #ffffff;
   }
   html {
     scroll-behavior: smooth;
